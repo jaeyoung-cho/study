@@ -15,7 +15,7 @@
 
 ### 알고리즘
 
-* Binary Search
+* Binary Search O(logn)
 * Quick Sort
 
 ## 웹 기초 
